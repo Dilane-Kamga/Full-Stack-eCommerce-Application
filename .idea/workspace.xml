@@ -26,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/DILANE KAMGA/Desktop/All/ALX",
+    "last_opened_file_path": "C:/Users/DILANE KAMGA/Desktop/All/ALX/Full-Stack-eCommerce-Application",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -37,9 +37,27 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DILANE KAMGA\Desktop\All\ALX\Full-Stack-eCommerce-Application" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DILANE KAMGA\Desktop\All\ALX\Full-Stack-eCommerce-Application" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Full-Stack-eCommerce-Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Full-Stack-eCommerce-Application" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679938959049</updated>
       <workItem from="1679938977510" duration="547000" />
+      <workItem from="1679947993297" duration="1894000" />
     </task>
     <servers />
   </component>
