@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52f86b3a-3a6b-4d6c-ae61-d5c163c55de2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MNWh2uQ4QGbSweeNMWyNWdigim" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DILANE KAMGA/Desktop/Jobs/Spring boot/Ecommerce/ecommerceapplication/src/main/java/com/teamsolutions/ecommerceapplication&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e70ede2416466be2231db74cbbd249df&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DILANE KAMGA\Desktop\Jobs\Spring boot\Ecommerce\ecommerceapplication\src\main\java\com\teamsolutions\ecommerceapplication" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DILANE KAMGA\Desktop\Jobs\Spring boot\Ecommerce\ecommerceapplication\src\main\java\com\teamsolutions\ecommerceapplication\config" />
+      <recent name="C:\Users\DILANE KAMGA\Desktop\Jobs\Spring boot\Ecommerce\ecommerceapplication\src\main\java\com\teamsolutions\ecommerceapplication\dao" />
+      <recent name="C:\Users\DILANE KAMGA\Desktop\Jobs\Spring boot\Ecommerce\ecommerceapplication\src\main\java\com\teamsolutions\ecommerceapplication" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EcommerceapplicationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ecommerceapplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.teamsolutions.ecommerceapplication.EcommerceapplicationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f86b3a-3a6b-4d6c-ae61-d5c163c55de2" name="Changes" comment="" />
+      <created>1677608638430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677608638430</updated>
+      <workItem from="1677608640748" duration="3978000" />
+      <workItem from="1678201679578" duration="6012000" />
+      <workItem from="1678297534074" duration="594000" />
+      <workItem from="1678376158422" duration="1077000" />
+      <workItem from="1678379507439" duration="9321000" />
+      <workItem from="1678615963784" duration="580000" />
+      <workItem from="1678812262035" duration="7372000" />
+      <workItem from="1678876903852" duration="1880000" />
+      <workItem from="1678893553807" duration="1176000" />
+      <workItem from="1678900626891" duration="6810000" />
+      <workItem from="1678979007347" duration="3277000" />
+      <workItem from="1679310539967" duration="4182000" />
+      <workItem from="1679318117123" duration="1262000" />
+      <workItem from="1679482036852" duration="1173000" />
+      <workItem from="1679975390735" duration="2616000" />
+      <workItem from="1680010533018" duration="1263000" />
+      <workItem from="1680052423102" duration="6672000" />
+      <workItem from="1680095902470" duration="654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
