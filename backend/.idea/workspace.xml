@@ -5,207 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52f86b3a-3a6b-4d6c-ae61-d5c163c55de2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/EcommerceapplicationApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/config/MyDataRestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/controller/CheckoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dao/CountryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dao/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dao/ProductCategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dao/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dao/StateRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dto/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/dto/PurchaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/ProductCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/entity/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/service/CheckoutService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/service/CheckoutServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/teamsolutions/ecommerceapplication/EcommerceapplicationApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/EcommerceapplicationApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/config/MyDataRestConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/controller/CheckoutController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dao/CountryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dao/CustomerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dao/ProductCategoryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dao/ProductRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dao/StateRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dto/Purchase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/dto/PurchaseResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/Country.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/OrderItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/ProductCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/entity/State.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/service/CheckoutService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/service/CheckoutServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/common/product.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/common/product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-category-menu/product-category-menu.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-category-menu/product-category-menu.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-category-menu/product-category-menu.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-category-menu/product-category-menu.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-list/product-list-grid.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-list/product-list-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-list/product-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-list/product-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-list/product-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/components/product-list/product-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/services/product.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/app/services/product.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/books/book-luv2code-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/coffeemugs/coffeemug-luv2code-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/luggagetags/luggagetag-luv2code-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/mousepads/mousepad-luv2code-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/products/placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceapplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceapplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/config/MyDataRestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teamsolutions/ecommerceapplication/config/MyDataRestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/config/MyDataRestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/teamsolutions/ecommerceapplication/config/MyDataRestConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,28 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/DILANE KAMGA/Desktop/Jobs/Spring boot/Ecommerce/ecommerceapplication/src/main/java/com/teamsolutions/ecommerceapplication",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "e70ede2416466be2231db74cbbd249df",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DILANE KAMGA/Desktop/Jobs/Spring boot/Ecommerce/ecommerceapplication/src/main/java/com/teamsolutions/ecommerceapplication&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e70ede2416466be2231db74cbbd249df&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DILANE KAMGA\Desktop\Jobs\Spring boot\Ecommerce\ecommerceapplication\src\main\java\com\teamsolutions\ecommerceapplication" />
@@ -305,7 +110,8 @@
       <workItem from="1680010533018" duration="1263000" />
       <workItem from="1680052423102" duration="6672000" />
       <workItem from="1680095902470" duration="1954000" />
-      <workItem from="1680098242714" duration="2389000" />
+      <workItem from="1680098242714" duration="5335000" />
+      <workItem from="1680171433469" duration="508000" />
     </task>
     <servers />
   </component>
